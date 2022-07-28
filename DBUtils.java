@@ -1,1 +1,2 @@
-this java class sontains the DB related code..
+This java class contains the DB related code..
+THIS LINE UPDATING NOW FOR CHANGE IN LOGIC..
